@@ -1,24 +1,9 @@
-# spotif
 
-## Project setup
-```
-npm install
-```
+# Spotify Replica
+A simple music player built in Vue.js. 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Play Example
+![](git-images/music-player-2.PNG)
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Pause Example
+![](git-images/music-player-1.PNG)
