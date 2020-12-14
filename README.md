@@ -6,4 +6,4 @@ A simple music player built in Vue.js.
 ![](github-images/music-player-1.PNG.PNG)
 
 ### Pause Example
-![](github-images/music-player-1.PNG.PNG)
+![](github-images/music-player-2.PNG.PNG)
